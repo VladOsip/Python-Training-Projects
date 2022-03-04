@@ -1,5 +1,5 @@
 # Python-Training-Projects
-Small projects that I do mainly for training.
+Small bits of code that I do mainly for training.
 
 Thus far I have:
 
